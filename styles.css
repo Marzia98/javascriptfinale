@@ -1,0 +1,7 @@
+/* Add your styles here */
+.card {
+    cursor: pointer;
+    border: 1px solid #ca8f8f;
+    padding: 10px;
+    margin: 5px;
+}
